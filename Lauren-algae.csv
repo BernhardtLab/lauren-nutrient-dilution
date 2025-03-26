@@ -1,0 +1,482 @@
+Frame Time,Row,Column,Well,ImageRep,UniqueID,Flask ID,CellCount.BF.Count,Cell Count,Treatment,Day,Note
+00:03.5,G,9,G9,1,G9-1,T9,5,500,Test,6,"deleting g and h bad data entirely. replacing just cell letter, number will correctly be matched."
+00:04.1,G,9,G9,2,G9-2,T9,16,1600,Test,6,"DILUTED 2:198, so cell count multiplied by 100  "
+00:04.7,G,9,G9,3,G9-3,T9,47,4700,Test,6,"DILUTED 2:198, so cell count multiplied by 100  "
+00:05.3,G,9,G9,4,G9-4,T9,27,2700,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:05.9,G,9,G9,5,G9-5,T9,36,3600,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:07.7,G,10,G10,1,G10-1,T10,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:08.3,G,10,G10,2,G10-2,T10,53,5300,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:08.9,G,10,G10,3,G10-3,T10,78,7800,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:09.5,G,10,G10,4,G10-4,T10,39,3900,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:10.2,G,10,G10,5,G10-5,T10,5,500,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:11.5,G,11,G11,1,G11-1,T11,8,800,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:12.1,G,11,G11,2,G11-2,T11,42,4200,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:12.7,G,11,G11,3,G11-3,T11,59,5900,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:13.3,G,11,G11,4,G11-4,T11,23,2300,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:14.0,G,11,G11,5,G11-5,T11,4,400,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:15.7,G,12,G12,1,G12-1,T12,3,300,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:16.2,G,12,G12,2,G12-2,T12,13,1300,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:17.1,G,12,G12,3,G12-3,T12,19,1900,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:17.7,G,12,G12,4,G12-4,T12,8,800,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:18.3,G,12,G12,5,G12-5,T12,5,500,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:19.8,H,12,H12,1,H12-1,T12,6,600,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:20.4,H,12,H12,2,H12-2,T12,10,1000,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:21.0,H,12,H12,3,H12-3,T12,22,2200,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:21.6,H,12,H12,4,H12-4,T12,41,4100,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:22.2,H,12,H12,5,H12-5,T12,26,2600,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:23.6,H,11,H11,1,H11-1,T11,2,200,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:24.2,H,11,H11,2,H11-2,T11,21,2100,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:24.9,H,11,H11,3,H11-3,T11,6,600,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:25.5,H,11,H11,4,H11-4,T11,47,4700,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:26.2,H,11,H11,5,H11-5,T11,55,5500,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:27.6,H,10,H10,1,H10-1,T10,22,2200,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:28.3,H,10,H10,2,H10-2,T10,66,6600,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:28.9,H,10,H10,3,H10-3,T10,18,1800,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:29.5,H,10,H10,4,H10-4,T10,9,900,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:30.1,H,10,H10,5,H10-5,T10,2,200,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:31.4,H,9,H9,1,H9-1,T9,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:32.1,H,9,H9,2,H9-2,T9,7,700,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:32.7,H,9,H9,3,H9-3,T9,13,1300,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:33.4,H,9,H9,4,H9-4,T9,11,1100,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:34.1,H,9,H9,5,H9-5,T9,13,1300,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:38.1,E,1,E1,1,E1-1,C1,5,500,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:38.7,E,1,E1,2,E1-2,C1,5,500,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:39.3,E,1,E1,3,E1-3,C1,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:39.9,E,1,E1,4,E1-4,C1,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:40.5,E,1,E1,5,E1-5,C1,2,200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:41.9,E,2,E2,1,E2-1,C2,4,400,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:42.5,E,2,E2,2,E2-2,C2,3,300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:43.1,E,2,E2,3,E2-3,C2,3,300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:43.7,E,2,E2,4,E2-4,C2,3,300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:44.3,E,2,E2,5,E2-5,C2,19,1900,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:45.8,E,3,E3,1,E3-1,C3,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:46.4,E,3,E3,2,E3-2,C3,18,1800,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:47.0,E,3,E3,3,E3-3,C3,17,1700,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:47.6,E,3,E3,4,E3-4,C3,5,500,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:48.3,E,3,E3,5,E3-5,C3,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:49.7,E,4,E4,1,E4-1,C4,1,100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:50.3,E,4,E4,2,E4-2,C4,2,200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:51.0,E,4,E4,3,E4-3,C4,27,2700,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:51.6,E,4,E4,4,E4-4,C4,32,3200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:52.2,E,4,E4,5,E4-5,C4,3,300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:53.5,E,5,E5,1,E5-1,C5,3,300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:54.1,E,5,E5,2,E5-2,C5,13,1300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:54.8,E,5,E5,3,E5-3,C5,37,3700,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:55.4,E,5,E5,4,E5-4,C5,8,800,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:56.1,E,5,E5,5,E5-5,C5,1,100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:57.4,E,6,E6,1,E6-1,C6,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:58.1,E,6,E6,2,E6-2,C6,29,2900,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:58.8,E,6,E6,3,E6-3,C6,21,2100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+00:59.5,E,6,E6,4,E6-4,C6,4,400,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:00.1,E,6,E6,5,E6-5,C6,1,100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:01.7,E,7,E7,1,E7-1,C7,2,200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:02.3,E,7,E7,2,E7-2,C7,1,100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:03.0,E,7,E7,3,E7-3,C7,2,200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:03.6,E,7,E7,4,E7-4,C7,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:04.3,E,7,E7,5,E7-5,C7,31,3100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:05.6,E,8,E8,1,E8-1,C8,7,700,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:06.2,E,8,E8,2,E8-2,C8,6,600,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:06.8,E,8,E8,3,E8-3,C8,30,3000,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:07.5,E,8,E8,4,E8-4,C8,12,1200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:08.1,E,8,E8,5,E8-5,C8,28,2800,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:09.5,E,9,E9,1,E9-1,C9,1,100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:10.3,E,9,E9,2,E9-2,C9,5,500,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:11.0,E,9,E9,3,E9-3,C9,58,5800,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:11.6,E,9,E9,4,E9-4,C9,83,8300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:12.3,E,9,E9,5,E9-5,C9,21,2100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:13.7,E,10,E10,1,E10-1,C10,6,600,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:14.3,E,10,E10,2,E10-2,C10,24,2400,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:14.9,E,10,E10,3,E10-3,C10,74,7400,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:15.5,E,10,E10,4,E10-4,C10,30,3000,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:16.1,E,10,E10,5,E10-5,C10,36,3600,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:17.4,E,11,E11,1,E11-1,C11,33,3300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:18.1,E,11,E11,2,E11-2,C11,34,3400,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:18.7,E,11,E11,3,E11-3,C11,71,7100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:19.4,E,11,E11,4,E11-4,C11,48,4800,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:20.1,E,11,E11,5,E11-5,C11,2,200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:21.5,E,12,E12,1,E12-1,C12,6,600,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:22.2,E,12,E12,2,E12-2,C12,37,3700,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:22.8,E,12,E12,3,E12-3,C12,53,5300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:23.4,E,12,E12,4,E12-4,C12,5,500,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:24.1,E,12,E12,5,E12-5,C12,12,1200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:25.7,F,12,F12,1,F12-1,C12,9,900,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:26.3,F,12,F12,2,F12-2,C12,17,1700,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:27.0,F,12,F12,3,F12-3,C12,95,9500,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:27.6,F,12,F12,4,F12-4,C12,110,11000,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:28.2,F,12,F12,5,F12-5,C12,76,7600,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:29.7,F,11,F11,1,F11-1,C11,2,200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:30.4,F,11,F11,2,F11-2,C11,10,1000,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:31.0,F,11,F11,3,F11-3,C11,11,1100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:31.7,F,11,F11,4,F11-4,C11,37,3700,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:32.2,F,11,F11,5,F11-5,C11,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:33.8,F,10,F10,1,F10-1,C10,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:34.5,F,10,F10,2,F10-2,C10,21,2100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:35.2,F,10,F10,3,F10-3,C10,36,3600,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:35.8,F,10,F10,4,F10-4,C10,57,5700,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:36.4,F,10,F10,5,F10-5,C10,27,2700,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:37.9,F,9,F9,1,F9-1,C9,21,2100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:38.5,F,9,F9,2,F9-2,C9,44,4400,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:39.1,F,9,F9,3,F9-3,C9,20,2000,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:39.7,F,9,F9,4,F9-4,C9,15,1500,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:40.3,F,9,F9,5,F9-5,C9,5,500,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:41.9,F,8,F8,1,F8-1,C8,20,2000,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:42.6,F,8,F8,2,F8-2,C8,1,100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:43.2,F,8,F8,3,F8-3,C8,30,3000,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:43.9,F,8,F8,4,F8-4,C8,6,600,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:44.6,F,8,F8,5,F8-5,C8,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:46.2,F,7,F7,1,F7-1,C7,2,200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:46.7,F,7,F7,2,F7-2,C7,22,2200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:47.3,F,7,F7,3,F7-3,C7,5,500,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:47.9,F,7,F7,4,F7-4,C7,14,1400,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:48.5,F,7,F7,5,F7-5,C7,18,1800,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:49.9,F,6,F6,1,F6-1,C6,13,1300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:50.5,F,6,F6,2,F6-2,C6,67,6700,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:51.1,F,6,F6,3,F6-3,C6,5,500,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:51.7,F,6,F6,4,F6-4,C6,20,2000,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:52.3,F,6,F6,5,F6-5,C6,9,900,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:53.8,F,5,F5,1,F5-1,C5,1,100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:54.5,F,5,F5,2,F5-2,C5,24,2400,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:55.1,F,5,F5,3,F5-3,C5,2,200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:55.8,F,5,F5,4,F5-4,C5,3,300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:56.4,F,5,F5,5,F5-5,C5,4,400,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:57.9,F,4,F4,1,F4-1,C4,5,500,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:58.5,F,4,F4,2,F4-2,C4,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:59.2,F,4,F4,3,F4-3,C4,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+01:59.8,F,4,F4,4,F4-4,C4,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:00.4,F,4,F4,5,F4-5,C4,2,200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:01.8,F,3,F3,1,F3-1,C3,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:02.5,F,3,F3,2,F3-2,C3,3,300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:03.2,F,3,F3,3,F3-3,C3,14,1400,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:03.8,F,3,F3,4,F3-4,C3,12,1200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:04.4,F,3,F3,5,F3-5,C3,3,300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:05.7,F,2,F2,1,F2-1,C2,6,600,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:06.3,F,2,F2,2,F2-2,C2,14,1400,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:06.9,F,2,F2,3,F2-3,C2,32,3200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:07.6,F,2,F2,4,F2-4,C2,19,1900,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:08.2,F,2,F2,5,F2-5,C2,12,1200,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:09.6,F,1,F1,1,F1-1,C1,6,600,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:10.2,F,1,F1,2,F1-2,C1,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:10.9,F,1,F1,3,F1-3,C1,0,0,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:11.5,F,1,F1,4,F1-4,C1,3,300,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:12.1,F,1,F1,5,F1-5,C1,1,100,Control,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:13.7,G,1,G1,1,G1-1,T1,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:14.4,G,1,G1,2,G1-2,T1,1,100,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:15.0,G,1,G1,3,G1-3,T1,5,500,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:15.6,G,1,G1,4,G1-4,T1,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:16.3,G,1,G1,5,G1-5,T1,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:17.7,G,2,G2,1,G2-1,T2,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:18.4,G,2,G2,2,G2-2,T2,16,1600,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:19.0,G,2,G2,3,G2-3,T2,2,200,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:19.7,G,2,G2,4,G2-4,T2,6,600,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:20.2,G,2,G2,5,G2-5,T2,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:21.6,G,3,G3,1,G3-1,T3,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:22.2,G,3,G3,2,G3-2,T3,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:22.9,G,3,G3,3,G3-3,T3,12,1200,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:23.4,G,3,G3,4,G3-4,T3,12,1200,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:24.0,G,3,G3,5,G3-5,T3,2,200,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:25.5,G,4,G4,1,G4-1,T4,7,700,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:26.1,G,4,G4,2,G4-2,T4,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:26.7,G,4,G4,3,G4-3,T4,2,200,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:27.3,G,4,G4,4,G4-4,T4,1,100,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:28.0,G,4,G4,5,G4-5,T4,3,300,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:29.4,G,5,G5,1,G5-1,T5,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:30.0,G,5,G5,2,G5-2,T5,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:30.7,G,5,G5,3,G5-3,T5,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:31.3,G,5,G5,4,G5-4,T5,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:32.0,G,5,G5,5,G5-5,T5,4,400,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:33.3,G,6,G6,1,G6-1,T6,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:33.9,G,6,G6,2,G6-2,T6,5,500,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:34.6,G,6,G6,3,G6-3,T6,13,1300,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:35.2,G,6,G6,4,G6-4,T6,3,300,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:35.8,G,6,G6,5,G6-5,T6,7,700,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:37.1,G,7,G7,1,G7-1,T7,13,1300,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:37.7,G,7,G7,2,G7-2,T7,6,600,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:38.4,G,7,G7,3,G7-3,T7,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:39.0,G,7,G7,4,G7-4,T7,5,500,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:39.6,G,7,G7,5,G7-5,T7,13,1300,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:41.0,G,8,G8,1,G8-1,T8,1,100,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:41.7,G,8,G8,2,G8-2,T8,4,400,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:42.3,G,8,G8,3,G8-3,T8,8,800,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:42.9,G,8,G8,4,G8-4,T8,4,400,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+02:43.5,G,8,G8,5,G8-5,T8,0,0,Test,6,"DILUTED 2:198, so cell count multiplied by 100"
+5.683976,H,1,H1,1,H1-1,T1,7,700,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+6.312981,H,1,H1,2,H1-2,T1,1,100,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+6.93398,H,1,H1,3,H1-3,T1,59,5900,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+7.508992,H,1,H1,4,H1-4,T1,30,3000,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+8.096999,H,1,H1,5,H1-5,T1,0,0,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+9.64698,H,2,H2,1,H2-1,T2,2,200,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+10.23797,H,2,H2,2,H2-2,T2,8,800,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+10.83897,H,2,H2,3,H2-3,T2,63,6300,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+11.51098,H,2,H2,4,H2-4,T2,1,100,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+12.14099,H,2,H2,5,H2-5,T2,91,9100,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+13.54698,H,3,H3,1,H3-1,T3,2,200,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+14.16999,H,3,H3,2,H3-2,T3,78,7800,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+14.74299,H,3,H3,3,H3-3,T3,33,3300,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+15.37497,H,3,H3,4,H3-4,T3,9,900,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+16.04397,H,3,H3,5,H3-5,T3,3,300,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+17.60598,H,4,H4,1,H4-1,T4,5,500,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+18.258,H,4,H4,2,H4-2,T4,14,1400,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+18.89497,H,4,H4,3,H4-3,T4,11,1100,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+19.49299,H,4,H4,4,H4-4,T4,20,2000,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+20.12699,H,4,H4,5,H4-5,T4,52,5200,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+21.50497,H,5,H5,1,H5-1,T5,18,1800,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+22.19099,H,5,H5,2,H5-2,T5,3,300,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+22.76198,H,5,H5,3,H5-3,T5,1,100,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+23.443,H,5,H5,4,H5-4,T5,7,700,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+24.06497,H,5,H5,5,H5-5,T5,2,200,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+25.39198,H,6,H6,1,H6-1,T6,32,3200,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+25.97797,H,6,H6,2,H6-2,T6,62,6200,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+26.50998,H,6,H6,3,H6-3,T6,14,1400,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+27.13898,H,6,H6,4,H6-4,T6,12,1200,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+27.68897,H,6,H6,5,H6-5,T6,6,600,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+28.98797,H,7,H7,1,H7-1,T7,12,1200,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+29.60499,H,7,H7,2,H7-2,T7,31,3100,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+30.25198,H,7,H7,3,H7-3,T7,16,1600,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+30.83898,H,7,H7,4,H7-4,T7,12,1200,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+31.45,H,7,H7,5,H7-5,T7,9,900,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+32.99399,H,8,H8,1,H8-1,T8,0,0,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+33.659,H,8,H8,2,H8-2,T8,11,1100,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+34.28599,H,8,H8,3,H8-3,T8,0,0,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+34.94099,H,8,H8,4,H8-4,T8,3,300,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+35.55298,H,8,H8,5,H8-5,T8,0,0,Test,6,"Imaged second time because first images were blurry, DILUTED 2:198, so cell count multiplied by 100"
+00:01.8,A,1,A1,1,A1-1,C1,26,26,Control,0,
+00:02.3,A,1,A1,2,A1-2,C1,15,15,Control,0,
+00:02.9,A,1,A1,3,A1-3,C1,37,37,Control,0,
+00:03.5,A,1,A1,4,A1-4,C1,18,18,Control,0,
+00:04.1,A,1,A1,5,A1-5,C1,22,22,Control,0,
+00:05.7,A,2,A2,1,A2-1,C2,46,46,Control,0,
+00:06.3,A,2,A2,2,A2-2,C2,44,44,Control,0,
+00:06.9,A,2,A2,3,A2-3,C2,31,31,Control,0,
+00:07.6,A,2,A2,4,A2-4,C2,38,38,Control,0,
+00:08.2,A,2,A2,5,A2-5,C2,21,21,Control,0,
+00:09.9,A,3,A3,1,A3-1,C3,31,31,Control,0,
+00:10.5,A,3,A3,2,A3-2,C3,59,59,Control,0,
+00:11.2,A,3,A3,3,A3-3,C3,53,53,Control,0,
+00:11.8,A,3,A3,4,A3-4,C3,80,80,Control,0,
+00:12.4,A,3,A3,5,A3-5,C3,53,53,Control,0,
+00:13.9,A,4,A4,1,A4-1,C4,36,36,Control,0,
+00:14.5,A,4,A4,2,A4-2,C4,25,25,Control,0,
+00:15.1,A,4,A4,3,A4-3,C4,38,38,Control,0,
+00:15.8,A,4,A4,4,A4-4,C4,35,35,Control,0,
+00:16.4,A,4,A4,5,A4-5,C4,20,20,Control,0,
+00:17.7,A,5,A5,1,A5-1,C5,30,30,Control,0,
+00:18.4,A,5,A5,2,A5-2,C5,44,44,Control,0,
+00:19.0,A,5,A5,3,A5-3,C5,72,72,Control,0,
+00:19.6,A,5,A5,4,A5-4,C5,54,54,Control,0,
+00:20.1,A,5,A5,5,A5-5,C5,20,20,Control,0,
+00:21.6,A,6,A6,1,A6-1,C6,28,28,Control,0,
+00:22.2,A,6,A6,2,A6-2,C6,25,25,Control,0,
+00:22.9,A,6,A6,3,A6-3,C6,28,28,Control,0,
+00:23.5,A,6,A6,4,A6-4,C6,28,28,Control,0,
+00:24.1,A,6,A6,5,A6-5,C6,21,21,Control,0,
+00:25.5,A,7,A7,1,A7-1,C7,14,14,Control,0,
+00:26.1,A,7,A7,2,A7-2,C7,15,15,Control,0,
+00:26.7,A,7,A7,3,A7-3,C7,12,12,Control,0,
+00:27.3,A,7,A7,4,A7-4,C7,25,25,Control,0,
+00:27.9,A,7,A7,5,A7-5,C7,12,12,Control,0,
+00:29.5,A,8,A8,1,A8-1,C8,46,46,Control,0,
+00:30.1,A,8,A8,2,A8-2,C8,45,45,Control,0,
+00:30.7,A,8,A8,3,A8-3,C8,49,49,Control,0,
+00:31.3,A,8,A8,4,A8-4,C8,73,73,Control,0,
+00:31.9,A,8,A8,5,A8-5,C8,32,32,Control,0,
+00:33.4,A,9,A9,1,A9-1,C9,36,36,Control,0,
+00:34.0,A,9,A9,2,A9-2,C9,18,18,Control,0,
+00:34.6,A,9,A9,3,A9-3,C9,28,28,Control,0,
+00:35.2,A,9,A9,4,A9-4,C9,19,19,Control,0,
+00:35.9,A,9,A9,5,A9-5,C9,25,25,Control,0,
+00:37.4,A,10,A10,1,A10-1,C10,49,49,Control,0,
+00:38.1,A,10,A10,2,A10-2,C10,67,67,Control,0,
+00:38.8,A,10,A10,3,A10-3,C10,70,70,Control,0,
+00:39.5,A,10,A10,4,A10-4,C10,69,69,Control,0,
+00:40.1,A,10,A10,5,A10-5,C10,64,64,Control,0,
+00:41.7,A,11,A11,1,A11-1,C11,29,29,Control,0,
+00:42.3,A,11,A11,2,A11-2,C11,31,31,Control,0,
+00:43.0,A,11,A11,3,A11-3,C11,35,35,Control,0,
+00:43.6,A,11,A11,4,A11-4,C11,37,37,Control,0,
+00:44.3,A,11,A11,5,A11-5,C11,10,10,Control,0,
+00:45.8,A,12,A12,1,A12-1,C12,49,49,Control,0,
+00:46.4,A,12,A12,2,A12-2,C12,42,42,Control,0,
+00:47.0,A,12,A12,3,A12-3,C12,27,27,Control,0,
+00:47.6,A,12,A12,4,A12-4,C12,21,21,Control,0,
+00:48.1,A,12,A12,5,A12-5,C12,10,10,Control,0,
+00:49.6,B,12,B12,1,B12-1,C12,17,17,Control,0,
+00:50.2,B,12,B12,2,B12-2,C12,31,31,Control,0,
+00:50.8,B,12,B12,3,B12-3,C12,46,46,Control,0,
+00:51.5,B,12,B12,4,B12-4,C12,38,38,Control,0,
+00:52.1,B,12,B12,5,B12-5,C12,32,32,Control,0,
+00:53.5,B,11,B11,1,B11-1,C11,37,37,Control,0,
+00:54.1,B,11,B11,2,B11-2,C11,26,26,Control,0,
+00:54.7,B,11,B11,3,B11-3,C11,31,31,Control,0,
+00:55.3,B,11,B11,4,B11-4,C11,29,29,Control,0,
+00:55.9,B,11,B11,5,B11-5,C11,19,19,Control,0,
+00:57.3,B,10,B10,1,B10-1,C10,74,74,Control,0,
+00:57.9,B,10,B10,2,B10-2,C10,80,80,Control,0,
+00:58.5,B,10,B10,3,B10-3,C10,67,67,Control,0,
+00:59.1,B,10,B10,4,B10-4,C10,45,45,Control,0,
+00:59.7,B,10,B10,5,B10-5,C10,42,42,Control,0,
+01:01.2,B,9,B9,1,B9-1,C9,34,34,Control,0,
+01:01.8,B,9,B9,2,B9-2,C9,54,54,Control,0,
+01:02.4,B,9,B9,3,B9-3,C9,34,34,Control,0,
+01:03.0,B,9,B9,4,B9-4,C9,40,40,Control,0,
+01:03.5,B,9,B9,5,B9-5,C9,28,28,Control,0,
+01:04.9,B,8,B8,1,B8-1,C8,22,22,Control,0,
+01:05.5,B,8,B8,2,B8-2,C8,28,28,Control,0,
+01:06.1,B,8,B8,3,B8-3,C8,24,24,Control,0,
+01:06.7,B,8,B8,4,B8-4,C8,35,35,Control,0,
+01:07.4,B,8,B8,5,B8-5,C8,29,29,Control,0,
+01:08.7,B,7,B7,1,B7-1,C7,11,11,Control,0,
+01:09.3,B,7,B7,2,B7-2,C7,22,22,Control,0,
+01:10.0,B,7,B7,3,B7-3,C7,27,27,Control,0,
+01:10.7,B,7,B7,4,B7-4,C7,11,11,Control,0,
+01:11.3,B,7,B7,5,B7-5,C7,14,14,Control,0,
+01:12.7,B,6,B6,1,B6-1,C6,14,14,Control,0,
+01:13.4,B,6,B6,2,B6-2,C6,21,21,Control,0,
+01:14.0,B,6,B6,3,B6-3,C6,26,26,Control,0,
+01:14.6,B,6,B6,4,B6-4,C6,29,29,Control,0,
+01:15.1,B,6,B6,5,B6-5,C6,29,29,Control,0,
+01:16.7,B,5,B5,1,B5-1,C5,27,27,Control,0,
+01:17.3,B,5,B5,2,B5-2,C5,38,38,Control,0,
+01:17.9,B,5,B5,3,B5-3,C5,47,47,Control,0,
+01:18.5,B,5,B5,4,B5-4,C5,53,53,Control,0,
+01:19.1,B,5,B5,5,B5-5,C5,54,54,Control,0,
+01:20.9,B,4,B4,1,B4-1,C4,26,26,Control,0,
+01:21.5,B,4,B4,2,B4-2,C4,35,35,Control,0,
+01:22.1,B,4,B4,3,B4-3,C4,37,37,Control,0,
+01:22.7,B,4,B4,4,B4-4,C4,36,36,Control,0,
+01:23.4,B,4,B4,5,B4-5,C4,21,21,Control,0,
+01:25.0,B,3,B3,1,B3-1,C3,63,63,Control,0,
+01:25.6,B,3,B3,2,B3-2,C3,51,51,Control,0,
+01:26.3,B,3,B3,3,B3-3,C3,25,25,Control,0,
+01:26.9,B,3,B3,4,B3-4,C3,49,49,Control,0,
+01:27.5,B,3,B3,5,B3-5,C3,31,31,Control,0,
+01:28.8,B,2,B2,1,B2-1,C2,13,13,Control,0,
+01:29.4,B,2,B2,2,B2-2,C2,27,27,Control,0,
+01:30.0,B,2,B2,3,B2-3,C2,32,32,Control,0,
+01:30.7,B,2,B2,4,B2-4,C2,48,48,Control,0,
+01:31.3,B,2,B2,5,B2-5,C2,40,40,Control,0,
+01:32.7,B,1,B1,1,B1-1,C1,20,20,Control,0,
+01:33.3,B,1,B1,2,B1-2,C1,8,8,Control,0,
+01:33.9,B,1,B1,3,B1-3,C1,19,19,Control,0,
+01:34.6,B,1,B1,4,B1-4,C1,28,28,Control,0,
+01:35.2,B,1,B1,5,B1-5,C1,31,31,Control,0,
+01:36.4,C,1,C1,1,C1-1,T1,82,82,Test,0,
+01:37.1,C,1,C1,2,C1-2,T1,30,30,Test,0,
+01:37.7,C,1,C1,3,C1-3,T1,27,27,Test,0,
+01:38.4,C,1,C1,4,C1-4,T1,41,41,Test,0,
+01:39.1,C,1,C1,5,C1-5,T1,16,16,Test,0,
+01:40.7,C,2,C2,1,C2-1,T2,26,26,Test,0,
+01:41.2,C,2,C2,2,C2-2,T2,50,50,Test,0,
+01:41.9,C,2,C2,3,C2-3,T2,12,12,Test,0,
+01:42.4,C,2,C2,4,C2-4,T2,17,17,Test,0,
+01:43.0,C,2,C2,5,C2-5,T2,37,37,Test,0,
+01:44.3,C,3,C3,1,C3-1,T3,56,56,Test,0,
+01:44.9,C,3,C3,2,C3-2,T3,73,73,Test,0,
+01:45.5,C,3,C3,3,C3-3,T3,24,24,Test,0,
+01:46.1,C,3,C3,4,C3-4,T3,33,33,Test,0,
+01:46.7,C,3,C3,5,C3-5,T3,30,30,Test,0,
+01:48.2,C,4,C4,1,C4-1,T4,25,25,Test,0,
+01:48.9,C,4,C4,2,C4-2,T4,30,30,Test,0,
+01:49.5,C,4,C4,3,C4-3,T4,39,39,Test,0,
+01:50.1,C,4,C4,4,C4-4,T4,49,49,Test,0,
+01:50.7,C,4,C4,5,C4-5,T4,28,28,Test,0,
+01:52.2,C,5,C5,1,C5-1,T5,26,26,Test,0,
+01:52.9,C,5,C5,2,C5-2,T5,31,31,Test,0,
+01:53.5,C,5,C5,3,C5-3,T5,45,45,Test,0,
+01:54.2,C,5,C5,4,C5-4,T5,54,54,Test,0,
+01:54.8,C,5,C5,5,C5-5,T5,19,19,Test,0,
+01:56.3,C,6,C6,1,C6-1,T6,31,31,Test,0,
+01:56.9,C,6,C6,2,C6-2,T6,23,23,Test,0,
+01:57.6,C,6,C6,3,C6-3,T6,43,43,Test,0,
+01:58.1,C,6,C6,4,C6-4,T6,9,9,Test,0,
+01:58.8,C,6,C6,5,C6-5,T6,13,13,Test,0,
+02:00.4,C,7,C7,1,C7-1,T7,50,50,Test,0,
+02:01.0,C,7,C7,2,C7-2,T7,39,39,Test,0,
+02:01.6,C,7,C7,3,C7-3,T7,22,22,Test,0,
+02:02.3,C,7,C7,4,C7-4,T7,39,39,Test,0,
+02:02.9,C,7,C7,5,C7-5,T7,40,40,Test,0,
+02:04.5,C,8,C8,1,C8-1,T8,18,18,Test,0,
+02:05.1,C,8,C8,2,C8-2,T8,5,5,Test,0,
+02:05.8,C,8,C8,3,C8-3,T8,19,19,Test,0,
+02:06.4,C,8,C8,4,C8-4,T8,37,37,Test,0,
+02:07.0,C,8,C8,5,C8-5,T8,18,18,Test,0,
+02:08.4,C,9,C9,1,C9-1,T9,74,74,Test,0,
+02:09.1,C,9,C9,2,C9-2,T9,65,65,Test,0,
+02:09.7,C,9,C9,3,C9-3,T9,41,41,Test,0,
+02:10.3,C,9,C9,4,C9-4,T9,57,57,Test,0,
+02:10.9,C,9,C9,5,C9-5,T9,62,62,Test,0,
+02:12.4,C,10,C10,1,C10-1,T10,17,17,Test,0,
+02:13.0,C,10,C10,2,C10-2,T10,32,32,Test,0,
+02:13.7,C,10,C10,3,C10-3,T10,57,57,Test,0,
+02:14.3,C,10,C10,4,C10-4,T10,10,10,Test,0,
+02:14.9,C,10,C10,5,C10-5,T10,15,15,Test,0,
+02:16.5,C,11,C11,1,C11-1,T11,14,14,Test,0,
+02:17.1,C,11,C11,2,C11-2,T11,19,19,Test,0,
+02:17.8,C,11,C11,3,C11-3,T11,50,50,Test,0,
+02:18.4,C,11,C11,4,C11-4,T11,24,24,Test,0,
+02:19.1,C,11,C11,5,C11-5,T11,38,38,Test,0,
+02:20.7,C,12,C12,1,C12-1,T12,22,22,Test,0,
+02:21.4,C,12,C12,2,C12-2,T12,12,12,Test,0,
+02:22.1,C,12,C12,3,C12-3,T12,13,13,Test,0,
+02:22.7,C,12,C12,4,C12-4,T12,21,21,Test,0,
+02:23.4,C,12,C12,5,C12-5,T12,87,87,Test,0,
+02:25.0,D,12,D12,1,D12-1,T12,86,86,Test,0,
+02:25.6,D,12,D12,2,D12-2,T12,53,53,Test,0,
+02:26.3,D,12,D12,3,D12-3,T12,38,38,Test,0,
+02:26.9,D,12,D12,4,D12-4,T12,29,29,Test,0,
+02:27.5,D,12,D12,5,D12-5,T12,23,23,Test,0,
+02:29.0,D,11,D11,1,D11-1,T11,26,26,Test,0,
+02:29.6,D,11,D11,2,D11-2,T11,12,12,Test,0,
+02:30.2,D,11,D11,3,D11-3,T11,72,72,Test,0,
+02:30.8,D,11,D11,4,D11-4,T11,50,50,Test,0,
+02:31.5,D,11,D11,5,D11-5,T11,49,49,Test,0,
+02:32.8,D,10,D10,1,D10-1,T10,38,38,Test,0,
+02:33.5,D,10,D10,2,D10-2,T10,12,12,Test,0,
+02:34.0,D,10,D10,3,D10-3,T10,68,68,Test,0,
+02:34.6,D,10,D10,4,D10-4,T10,71,71,Test,0,
+02:35.2,D,10,D10,5,D10-5,T10,37,37,Test,0,
+02:36.8,D,9,D9,1,D9-1,T9,28,28,Test,0,
+02:37.4,D,9,D9,2,D9-2,T9,23,23,Test,0,
+02:38.1,D,9,D9,3,D9-3,T9,51,51,Test,0,
+02:38.8,D,9,D9,4,D9-4,T9,70,70,Test,0,
+02:39.4,D,9,D9,5,D9-5,T9,64,64,Test,0,
+02:40.9,D,8,D8,1,D8-1,T8,28,28,Test,0,
+02:41.5,D,8,D8,2,D8-2,T8,33,33,Test,0,
+02:42.1,D,8,D8,3,D8-3,T8,49,49,Test,0,
+02:42.7,D,8,D8,4,D8-4,T8,29,29,Test,0,
+02:43.4,D,8,D8,5,D8-5,T8,9,9,Test,0,
+02:44.8,D,7,D7,1,D7-1,T7,27,27,Test,0,
+02:45.5,D,7,D7,2,D7-2,T7,49,49,Test,0,
+02:46.1,D,7,D7,3,D7-3,T7,34,34,Test,0,
+02:46.8,D,7,D7,4,D7-4,T7,15,15,Test,0,
+02:47.5,D,7,D7,5,D7-5,T7,31,31,Test,0,
+02:48.9,D,6,D6,1,D6-1,T6,53,53,Test,0,
+02:49.6,D,6,D6,2,D6-2,T6,28,28,Test,0,
+02:50.2,D,6,D6,3,D6-3,T6,31,31,Test,0,
+02:50.9,D,6,D6,4,D6-4,T6,33,33,Test,0,
+02:51.5,D,6,D6,5,D6-5,T6,22,22,Test,0,
+02:53.0,D,5,D5,1,D5-1,T5,28,28,Test,0,
+02:53.6,D,5,D5,2,D5-2,T5,31,31,Test,0,
+02:54.2,D,5,D5,3,D5-3,T5,38,38,Test,0,
+02:54.8,D,5,D5,4,D5-4,T5,42,42,Test,0,
+02:55.4,D,5,D5,5,D5-5,T5,13,13,Test,0,
+02:56.8,D,4,D4,1,D4-1,T4,26,26,Test,0,
+02:57.4,D,4,D4,2,D4-2,T4,39,39,Test,0,
+02:58.0,D,4,D4,3,D4-3,T4,37,37,Test,0,
+02:58.6,D,4,D4,4,D4-4,T4,58,58,Test,0,
+02:59.2,D,4,D4,5,D4-5,T4,71,71,Test,0,
+03:00.6,D,3,D3,1,D3-1,T3,30,30,Test,0,
+03:01.2,D,3,D3,2,D3-2,T3,37,37,Test,0,
+03:01.8,D,3,D3,3,D3-3,T3,26,26,Test,0,
+03:02.5,D,3,D3,4,D3-4,T3,23,23,Test,0,
+03:03.1,D,3,D3,5,D3-5,T3,48,48,Test,0,
+03:04.5,D,2,D2,1,D2-1,T2,50,50,Test,0,
+03:05.2,D,2,D2,2,D2-2,T2,14,14,Test,0,
+03:05.8,D,2,D2,3,D2-3,T2,26,26,Test,0,
+03:06.4,D,2,D2,4,D2-4,T2,22,22,Test,0,
+03:07.0,D,2,D2,5,D2-5,T2,16,16,Test,0,
+03:08.2,D,1,D1,1,D1-1,T1,82,82,Test,0,
+03:08.8,D,1,D1,2,D1-2,T1,103,103,Test,0,
+03:09.4,D,1,D1,3,D1-3,T1,33,33,Test,0,
+03:10.0,D,1,D1,4,D1-4,T1,16,16,Test,0,
+03:10.5,D,1,D1,5,D1-5,T1,29,29,Test,0,
+,,,,,,,,,,,
